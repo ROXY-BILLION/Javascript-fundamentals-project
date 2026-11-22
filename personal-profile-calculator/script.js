@@ -5,6 +5,7 @@ const occupation = "Software Engineer";
 
 const currentSalary = 5000000;
 const previousSalary = 4500000;
+const ageIn5yrs = age + 5;
 
 const salaryIncrease = (currentSalary - previousSalary) ;
 
